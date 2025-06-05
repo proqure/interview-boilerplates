@@ -1,4 +1,4 @@
-package com.mypass.urlshortner.models
+package com.proqure.urlshortner.models
 
 data class EncodeResponse (
     var shortenedUrl: String

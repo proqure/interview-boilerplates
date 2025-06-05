@@ -1,4 +1,4 @@
-package com.mypass.urlshortner.models
+package com.proqure.urlshortner.models
 
 import com.fasterxml.jackson.annotation.JsonProperty
 

@@ -1,4 +1,4 @@
-package com.mypass.urlshortner
+package com.proqure.urlshortner
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

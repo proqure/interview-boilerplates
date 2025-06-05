@@ -1,11 +1,11 @@
-package com.mypass.urlshortner.controllers;
+package com.proqure.urlshortner.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestBody;
-import com.mypass.urlshortner.models.EncodeRequest;
-import com.mypass.urlshortner.models.EncodeResponse;
+import com.proqure.urlshortner.models.EncodeRequest;
+import com.proqure.urlshortner.models.EncodeResponse;
 
 @RestController
 public class EncodeController {

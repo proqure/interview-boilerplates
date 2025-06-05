@@ -1,4 +1,4 @@
-package com.mypass.urlshortner;
+package com.proqure.urlshortner;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
